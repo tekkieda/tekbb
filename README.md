@@ -1,2 +1,1 @@
-# tekbb
-TekBB (Previously known as BootBB)
+# TekBB (Previously known as BootBB)
